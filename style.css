@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+main {
+  width: 100%;
+  position: fixed;
+}
+.section {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+  font-family: sans-serif;
+}
+.one {
+  background-color: #242582;
+  color: #fff;
+}
+.two {
+  background-color: #f64c72;
+  color: #fff;
+}
+.three {
+  background-color: #99738e;
+  color: #fff;
+}
